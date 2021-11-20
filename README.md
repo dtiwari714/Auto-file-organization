@@ -1,4 +1,3 @@
-# Auto-file-organization
 Auto file organization:
 So,our project is about auto file organization. its simply managing a different type of files in well manner. Now we take an example we have a sample folder which have different types of files like,jpg, pdf, mp3, mp4 which is look like inappropriate. If we want to arrange manually than it takes much time to arrange in proper manner.
 So, python is the key to solve this problem. Python is arranging all the files in category wise by using some module.
